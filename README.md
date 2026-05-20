@@ -8,7 +8,7 @@ telling the time, fetching Wikipedia summaries, and cracking jokes.
 
 ## 💡 Motivation
 
-This was our team's first-ever Python project — built during the first semester of B.Tech 
+This was our team's first-ever Python project, built during the 1st semester of B.Tech 
 Computer Science. We wanted to go beyond a basic console program and build something 
 that actually *talks back*. Presented to faculty via Microsoft Teams and received 
 positive feedback with a suggestion to extend it with a GUI — which is next on the roadmap.
